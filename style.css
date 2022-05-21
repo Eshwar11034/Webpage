@@ -1,0 +1,348 @@
+h1{
+			color:rgb(20,57,126);
+			text-align: center;
+			font-size: 2.75rem;
+		}
+		body{
+			background: url(download.jpg)  no-repeat ;
+			width: 100%;
+			height 50vh; 
+			
+
+		}
+		#intro
+		 {  
+		 	
+			font-size : 1.5rem;
+		    font-style: italic;
+			text-align: center;
+			margin-top: 30vh;
+			
+			
+      }
+     
+     
+     h2{
+        font-size: 2rem;
+     	text-align: center;
+     	color: rgb(18,177,187);
+     }
+     .hobbies
+     {
+       display: flex;
+       margin-left: 200px;
+       gap:10px;
+     }
+     .movie
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .movie_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .movie_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .movie_overlay:hover
+     {
+           opacity: 1;
+     }
+     .movie_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+     .volleyball
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .volleyball_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .volleyball_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .volleyball_overlay:hover
+     {
+           opacity: 1;
+     }
+     .volleyball_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+      .reading
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .reading_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .reading_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .reading_overlay:hover
+     {
+           opacity: 1;
+     }
+     .reading_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+    .music
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .music_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .music_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .music_overlay:hover
+     {
+           opacity: 1;
+     }
+     .music_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+ h3
+ {
+ 	   font-size: 2rem;
+     	text-align: center;
+     	color: rgb(18,177,187);
+ }
+ .Singers
+     {
+       display: flex;
+       margin-left: 200px;
+       gap:10px;
+     }
+     .sid
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .sid_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .sid_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .sid_overlay:hover
+     {
+           opacity: 1;
+     }
+     .sid_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+     .arjit
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .arjit_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .arjit_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .arjit_overlay:hover
+     {
+           opacity: 1;
+     }
+     .arjit_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+      .ani
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .ani_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .ani_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .ani_overlay:hover
+     {
+           opacity: 1;
+     }
+     .ani_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+    .arman
+     {
+       position: relative;
+       width :400px. ;
+     }
+     .arman_img
+     {
+     	display :block;
+     	width: 100%;
+     }
+     .arman_overlay
+     {
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	width :100%;
+     	height: 100%;
+     	background : rgba(0,0,0,0.6);
+     	color: #ffffff;
+     	display:  flex;
+     	flec-direction: center;
+     	justify-content:center ;
+     	opacity: 0;
+     	transition: opacity :0.25s;
+
+     }
+
+     .arman_overlay:hover
+     {
+           opacity: 1;
+     }
+     .arman_description
+     {
+     	margin-top: 100px;
+     	font-size: 1.5rem;
+     }
+      .description{
+      	font-size : 1.5rem;
+		text-align: center;
+        margin-top:5vh;	
+
+      }
+      .quote {
+      	font-size : 1.25rem;
+		text-align: center;
+        margin-top: 10vh;	
+        background-color:black ;
+        color: white;
+     }
