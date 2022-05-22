@@ -2,6 +2,9 @@ h1{
 			color:rgb(20,57,126);
 			text-align: center;
 			font-size: 2.75rem;
+			margin-top: 0.5px;
+
+			
 		}
 		body{
 			background: url(download.jpg)  no-repeat ;
@@ -10,14 +13,46 @@ h1{
 			
 
 		}
-		#intro
+		.navbar-links {
+  height: 100%;
+}
+
+.navbar-links ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  padding-right: 0.5rem;
+}
+
+.navbar-links li {
+  list-style: none;
+}
+
+.navbar-links li a {
+  display:inline-block; 
+  text-decoration: none;
+  color: rgb(27, 24, 24);
+  padding: 1.5rem;
+  font-size: 1.25rem;
+}
+
+.navbar-links li a:hover {
+  border-radius: 3rem;
+  color: #620df6;
+  background-color: rgb(0, 0, 0, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(11.5px);
+  -webkit-backdrop-filter: blur(11.5px);
+  border-radius: 10px;
+}
+	    #intro
 		 {  
 		 	
 			font-size : 1.5rem;
 		    font-style: italic;
 			text-align: center;
 			margin-top: 30vh;
-			
+			color: black
 			
       }
      
@@ -27,7 +62,7 @@ h1{
      	text-align: center;
      	color: rgb(18,177,187);
      }
-     .hobbies
+    #hobbies
      {
        display: flex;
        margin-left: 200px;
@@ -339,6 +374,17 @@ h1{
         margin-top:5vh;	
 
       }
+      
+    #contact{
+    	font-size : 1.5rem;
+		text-align: center;
+        margin-top:5vh;	
+    }
+
+    h4{
+    	text-align: center;
+			font-size: 2.75rem;
+    }
       .quote {
       	font-size : 1.25rem;
 		text-align: center;
